@@ -1,0 +1,9 @@
+#5.	Write a program to calculate the average of all elements in a list. 
+
+numbers = [10, 20, 30, 40, 50]
+
+
+average = sum(numbers) / len(numbers)
+
+
+print("Average =", average)
