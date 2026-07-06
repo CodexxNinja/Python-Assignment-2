@@ -1,4 +1,4 @@
-<h2><img src="https://media.giphy.com/media/L8K62iDadbixW/giphy.gif" width="40" align="center" alt="Book"> About The Project</h2>
+<h2><img src="https://media.giphy.com/media/L8K62iDadbixW/giphy.gif" width="40" align="center" alt="Book"> ~ About The Project</h2>
 
 Welcome to **Python Assignment 2**! This repository is engineered to be a comprehensive, hands-on playground for developers looking to solidify their understanding of Python's most powerful built-in features. By diving into this repository, you are exploring the core DNA of Python programming. We focus on modular design, data sequencing, and high-speed key-value mapping. Every folder is packed with practical scripts that transition you from theoretical concepts to real-world application building.
 
@@ -78,9 +78,3 @@ When you need instantaneous data lookups, Dictionaries are the answer. Powered b
 <hr>
 
 <h2><img src="https://media.giphy.com/media/Y4vBiFdqtGsDu/giphy.gif" width="40" align="center" alt="Rocket"> Getting Started & Installation</h2>
-
-Ready to get this code running on your local machine? Follow these numbered steps to clone the repository and begin your journey.
-
-**Step 1:** Ensure you have Python installed. Open your terminal and check your version.
-```bash
-python --version
