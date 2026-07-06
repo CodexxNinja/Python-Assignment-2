@@ -1,19 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="60" alt="Python Snake">
-  <h1><strong>Python Assignment 2</strong></h1>
-  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="200" alt="Coding Cat">
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Mastering+Functions;Mastering+Lists;Mastering+Dictionaries;Level+Up+Your+Python+Skills!" alt="Typing Effect" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=checkmarx" alt="Status Badge">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License Badge">
-</div>
-
-<hr>
-
 <h2><img src="https://media.giphy.com/media/L8K62iDadbixW/giphy.gif" width="40" align="center" alt="Book"> About The Project</h2>
 
 Welcome to **Python Assignment 2**! This repository is engineered to be a comprehensive, hands-on playground for developers looking to solidify their understanding of Python's most powerful built-in features. By diving into this repository, you are exploring the core DNA of Python programming. We focus on modular design, data sequencing, and high-speed key-value mapping. Every folder is packed with practical scripts that transition you from theoretical concepts to real-world application building.
