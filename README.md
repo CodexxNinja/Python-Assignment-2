@@ -6,7 +6,7 @@ Welcome to **Python Assignment 2**! This repository is engineered to be a compre
 
 <h2><img src="https://media.giphy.com/media/26tn33aiTi1jVDzO0/giphy.gif" width="40" align="center" alt="Target"> Core Learning Objectives</h2>
 
-We have structured this repository to ensure you walk away with highly applicable skills. Instead of just reading about Python, you will be interacting with code that demonstrates industry-standard practices. hjg
+We have structured this repository to ensure you walk away with highly applicable skills. Instead of just reading about Python, you will be interacting with code that demonstrates industry-standard practices.
 
 | 🚀 Objective Category | 🧠 What You Will Master |
 | :--- | :--- |
